@@ -37,6 +37,6 @@ print ("Ah, so your name is %s, your quest is %s, " \
 
 #kesimpulan!
 
-my_string = "Lia cantik"
+my_string = "hai cantik"
 print (len(my_string))
 print (my_string.upper())
