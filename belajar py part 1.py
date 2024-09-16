@@ -1,5 +1,5 @@
 #tes print printan
-print ("lagi santai kawan")
+print ("senang bisa mengenalmu")
 print ("mulyono or widodo")
 print ("Hello " + "im ultaramen")
 print ("How do you make a hot dog stand?")
