@@ -1,6 +1,6 @@
 #tes print printan
-print ("hai sayang")
-print ("love u so much")
+print ("lagi santai kawan")
+print ("mulyono or widodo")
 print ("Hello " + "im ultaramen")
 print ("How do you make a hot dog stand?")
 print ("You take away its chair!")
