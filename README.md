@@ -21,7 +21,7 @@ read -s PASSWORD  # Input password secara tersembunyi
 echo ""
 ```
 <p>nanti hasil output akan seperti ini</p>
-<img src="source/Screenshot 2025-03-15 135758">
+![Image](https://github.com/user-attachments/assets/1b79122a-958e-4b5c-9fe7-e43759d5dfd0)
 
 <p>
     2.b) pada soal ini kita diminta untuk membuat validasi pada email agar harus memiliki karakter @ dan . , serta validasi password 
