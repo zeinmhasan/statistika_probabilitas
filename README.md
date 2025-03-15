@@ -1,4 +1,4 @@
-<h1>penjelasan dan laporan modu_1</h1>
+<h1>penjelasan dan laporan modul_1</h1>
 <hr />
 <h2>soal 1</h2>
 <p>
